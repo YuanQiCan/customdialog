@@ -47,7 +47,7 @@ public class CustomDialog extends Dialog implements View.OnClickListener{
         this.content = content;
     }
 
-    protected CustomDialog(Context context, int themeResId, String content, OnCloseListener listener) {
+    public CustomDialog(Context context, int themeResId, String content, OnCloseListener listener) {
         super(context, themeResId);
         this.mContext = context;
         this.content = content;
