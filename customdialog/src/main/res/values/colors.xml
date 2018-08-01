@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#ff000000</color>
+
+    <color name="font_gray_b">#d4d4d3</color>
+
+    <color name="font_tab_1">#42369a</color>
+    <color name="font_tab_0">#b1b1b1</color>
+
+
+    <color name="font_common_1">#424242</color>
+    <color name="font_common_2">#a1a1a1</color>
+    <color name="font_blue">#42369a</color>
+
+    <color name="font_green">#00cccc</color>
+
+    <color name="commom_background">#f3f3f3</color>
+</resources>
